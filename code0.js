@@ -28,7 +28,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Mobile_32or_32LabtopCode.mapOfGDgdjs_9546Mobile_959532or_959532LabtopCode_9546GDOld_95959595computer_95959595monitorObjects1Objects, runtimeScene, true, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16630180);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10906244);
 }
 }
 if (isConditionTrue_0) {
@@ -51,7 +51,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Mobile_32or_32LabtopCode.mapOfGDgdjs_9546Mobile_959532or_959532LabtopCode_9546GDPhone2Objects1Objects, runtimeScene, true, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16631108);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(21087196);
 }
 }
 if (isConditionTrue_0) {
@@ -74,7 +74,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Mobile_32or_32LabtopCode.mapOfGDgdjs_9546Mobile_959532or_959532LabtopCode_9546GDOld_95959595computer_95959595monitorObjects1Objects, runtimeScene, true, true);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16631972);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(24019996);
 }
 }
 if (isConditionTrue_0) {
@@ -97,7 +97,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Mobile_32or_32LabtopCode.mapOfGDgdjs_9546Mobile_959532or_959532LabtopCode_9546GDPhone2Objects1Objects, runtimeScene, true, true);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(16633204);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(24021532);
 }
 }
 if (isConditionTrue_0) {
